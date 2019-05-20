@@ -1,0 +1,4 @@
+#Mon May 20 13:30:33 BRT 2019
+base.0=/Users/matheuscarvalho/tablecustomcomponent/android/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
